@@ -11,6 +11,7 @@ In the first stage, we focused on extracting text from basic images using PyTess
 **Approach**: PyTesseract for OCR, ROI-based extraction.  
 **Outcome**: We successfully extracted text from selected image regions (like Aadhar cards and bills).
 
+
 **Stage 2: Engineering Drawing Text Extraction without ROI**  
 In the second stage, we moved on to engineering drawings, attempting to extract text from the entire image without manually defining regions of interest. The extracted content was then pushed into an Excel file for further analysis.  
 
