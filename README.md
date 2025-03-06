@@ -24,6 +24,12 @@ In the final stage, we introduced a more refined approach using Region of Intere
 **Approach**: Custom ROI setup for each engineering drawing, extracting labeled data to Excel.  
 **Outcome:** The extraction became more adaptable to different kinds of engineering drawings because of the ability to adjust ROIs and prioritize areas of the image.
 
+**Try it out**
+
+
+https://github.com/user-attachments/assets/ae6c8c06-0ad6-49db-9ec6-df6e367d592d
+
+
 **Key Benefits:**  
 **Stage 1**: Demonstrated basic OCR text extraction capabilities.  
 **Stage 2:** Enabled full-image extraction, though with limitations regarding adaptability.  
